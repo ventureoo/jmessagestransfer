@@ -28,8 +28,6 @@ import org.telegram.telegrambots.meta.api.objects.stickers.Sticker;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 public class TelegramHandler {
-    public static final int TELEGRAM_MAX_DOWNLOAD_SIZE = 20971520;
-
     private Transfer transfer;
     private final TelegramTransfer instance;
 
