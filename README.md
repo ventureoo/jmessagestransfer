@@ -1,2 +1,3 @@
 # jmessagestransfer
-Transfer of messages from Telegram to VK and back
+
+Простой бот для пересылки сообщений из вашей беседы в ВК в чат Telegram, и наоборот.
